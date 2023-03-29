@@ -14,7 +14,7 @@
             d="M512 805.8c-24.8 0-44.9-20.1-44.9-44.9V514.1c0-24.8 20.1-44.9 44.9-44.9s44.9 20.1 44.9 44.9V761c0 24.7-20.1 44.8-44.9 44.8z"
             fill="#ffffff" p-id="3637"></path>
         </svg>
-        <h2>OpenAI Manage</h2>
+        <h2>ChatGPT-QUQUAI</h2>
       </div>
       <div class="online-person" style="margin-top: 5%;">
         <el-row :gutter="24">
